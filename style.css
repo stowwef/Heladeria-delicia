@@ -1,0 +1,237 @@
+* {
+
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+body {
+
+    background-color: #facf9b;
+  
+
+}
+
+.titulo {
+
+    color: #f99213;
+    text-align: center;
+
+}
+
+.contenedor {
+
+    width: 100%;
+    height: 50px;
+    background-color: #fff9f0;
+
+
+
+}
+
+.encabezado {
+
+    width: 100%;
+    height: 90px;
+
+    
+    position: sticky;
+    top: 0px;
+   
+
+}
+
+.navbar {
+
+    width: 100%;
+    background-color: #f88a40;
+    border: 5px solid #f56d0b;
+    position: fixed;
+    left: 0px;
+
+
+}
+
+.lista{
+
+
+    text-align: center;
+    list-style: none;
+
+
+}
+
+.item{
+
+    display: inline;
+    padding: 10px;
+
+
+}
+
+.enlace {
+
+
+    color: #ffffff;
+    text-decoration: none;
+
+
+}
+
+.subtitulo {
+
+    color: #fd8d2b;
+    text-decoration: 3px underline beige ;
+    margin-left: 10px;
+
+
+
+
+}
+
+
+.parrafo {
+    
+    color: #f47200;
+    margin: 20px;
+    text-align: justify;
+    max-width:850px;
+    
+
+}
+
+.subtitulo-redes {
+
+    font-size: 20px;
+    color: #ffffff;
+    margin: 10px;
+    text-decoration: 3px underline #ff8c39 solid;
+    text-shadow: 0px 0px 5px #e66910;
+
+}
+
+.contacto, .lista-redes {
+
+    margin-left: 48px;
+    list-style: none;
+
+}
+
+.item-apar, .item-redes {
+
+     color: #f56d0b;
+
+}
+
+.resaltador {
+
+    display: block;
+    margin: 10px;
+    font-weight: bold;
+    font-size: 18px;
+
+}
+
+.resaltador-contacto {
+
+    color: #f47200;
+    font-weight: bold;
+
+}
+
+.pie {
+
+    width: 100%;
+    height: 116px;
+    background-color: #ffffff;
+
+}
+
+.parrafo-pie {
+
+    color: #f99213;
+    font-weight: bold;
+    padding-top: 90px;
+    text-align: center;
+
+
+}
+
+.anuncio {
+
+    position: relative;
+
+ 
+
+}
+
+.contenedor-anuncio-1 {
+
+    position: absolute;
+    right: 0px;
+    bottom: 945px;
+    margin-right: 20px;
+    z-index: -1;
+
+}
+
+.imagen-1 {
+
+
+    width: 300px;
+    border: 10px solid #f88a40;
+
+
+}
+
+.contenedor-anuncio-2 {
+
+    width: 300px;
+    height: 400px;
+    background-color: #f88a40;
+    /* border: dashed 5px #ffffff; */
+    position: absolute;
+    right: 0px;
+    bottom: 490px;
+    margin-right: 20px;
+
+    z-index: -1;
+
+}
+
+.imagen-2 {
+
+    width: 260px;
+    height: 360px;
+    margin: 20px;
+
+}
+
+.contenedor-anuncio-3 {
+
+    width: 300px;
+    height: 300px;
+    background-color: #f88a40;
+
+    position: absolute;
+    right: 0px;
+    bottom: 120px;
+    z-index: -1;
+    margin-right: 20px;
+
+
+}
+
+.imagen-3 {
+
+    width: 260px;
+    height: 260px;
+    margin: 20px;
+    
+    
+
+}
+
+
